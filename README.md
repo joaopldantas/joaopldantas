@@ -1,4 +1,6 @@
-## Welcome back to Trench ☢︎
+# Welcome back to Trench ☢︎
+
+## Hello! My name is João Pedro 👋
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
